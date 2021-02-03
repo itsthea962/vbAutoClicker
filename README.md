@@ -9,6 +9,6 @@ Feel free to use these files, just credit my GitHub page if you want :-) (it's n
 
 v1.4 is the latest and only availble download too
 
-![v1.4 PICTURE ONE](https://i.imgur.com/mnwYlbP.png)
+![v1.4 PICTURE ONE](https://i.imgur.com/vdS2Cc0.png)
 
-![v1.4 PICTURE TWO](https://i.imgur.com/qzpnXoe.png)
+![v1.4 PICTURE TWO](https://i.imgur.com/yhhLCGQ.png)
