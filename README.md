@@ -9,6 +9,8 @@ Feel free to use these files, just credit my GitHub page if you want :-) (it's n
 
 v1.5 is the latest, v1.4 also available to download
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 ![v1.5 PICTURE ONE](https://i.imgur.com/vdS2Cc0.png)
 
 ![v1.5 PICTURE TWO](https://i.imgur.com/yhhLCGQ.png)
