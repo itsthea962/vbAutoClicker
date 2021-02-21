@@ -1,0 +1,13 @@
+C:\Users\spare\Desktop\autoclicker\autoclicker\bin\Debug\autoclicker.exe.config
+C:\Users\spare\Desktop\autoclicker\autoclicker\bin\Debug\autoclicker.exe
+C:\Users\spare\Desktop\autoclicker\autoclicker\bin\Debug\autoclicker.pdb
+C:\Users\spare\Desktop\autoclicker\autoclicker\bin\Debug\autoclicker.xml
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.Form1.resources
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.Resources.resources
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.vbproj.GenerateResource.cache
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.vbproj.CoreCompileInputs.cache
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.exe
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.xml
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.pdb
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.Form2.resources
+C:\Users\spare\Desktop\autoclicker\autoclicker\obj\Debug\autoclicker.vbprojAssemblyReference.cache
